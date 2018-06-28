@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/java,windows,intellij+all
 
 ### Intellij+all ###
@@ -68,6 +69,8 @@ modules.xml
 *.ipr
 
 ### Java ###
+=======
+>>>>>>> 9a71f13d482dfece7575ad99f1e0b1ddf4e7d617
 # Compiled class file
 *.class
 
@@ -91,6 +94,7 @@ modules.xml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -119,3 +123,5 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/java,windows,intellij+all
+=======
+>>>>>>> 9a71f13d482dfece7575ad99f1e0b1ddf4e7d617

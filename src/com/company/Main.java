@@ -46,7 +46,7 @@ public class Main {
             }}
         } catch (Exception e) {
             e.printStackTrace();
-        }
+        } 
     }
 
     private static void disableSSL() {
